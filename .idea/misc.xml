@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/bg_connecting.xml" value="0.1" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/bg_grey.xml" value="0.133" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/bg_user.xml" value="0.19" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_camera_close.xml" value="0.1" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_camera_open.xml" value="0.1" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_coin.xml" value="0.131" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_end_call.xml" value="0.19" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_launcher_background.xml" value="0.191" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_mic_muted.xml" value="0.191" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_mic_unmuted.xml" value="0.191" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/ic_unmute.xml" value="0.1065" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/reward_bg.xml" value="0.191" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/drawable/white_bg.xml" value="0.1215" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/layout/activity_calling.xml" value="0.22" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/layout/activity_connecting.xml" value="0.2465277777777778" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/PlayStore/SmallUseFulApps/Bonjour/app/src/main/res/layout/activity_more_coins.xml" value="0.1778115501519757" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

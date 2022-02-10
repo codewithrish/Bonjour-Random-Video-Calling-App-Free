@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964736123760",
+    "project_id": "bonjour-9c523",
+    "storage_bucket": "bonjour-9c523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964736123760:android:40d6d75f2b5a3010fcc5b5",
+        "android_client_info": {
+          "package_name": "com.codewithrish.bonjour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964736123760-uaqn1klp7ak927ht5obgbkgbqo82e7s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithrish.bonjour",
+            "certificate_hash": "c373c779a2d5551d254eb05cc93f25e98630bf16"
+          }
+        },
+        {
+          "client_id": "964736123760-ve3tdjn5u3evuvlb2ch9309gnqoh13kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2z74E5Vb_thWVEJHLoyl1gcTHyffM1pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964736123760-ve3tdjn5u3evuvlb2ch9309gnqoh13kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
